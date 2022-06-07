@@ -1,0 +1,23 @@
+ body {
+     background-image: url('https://www.fazfacil.com.br/wp-content/uploads/2021/08/20210816-nbdst1.jpg');
+     background-repeat: no-repeat;
+     background-size: 100%;
+      }
+.fundo{
+    background-color: rgb(215, 151, 174) !important;
+}
+td{
+    background-color: rgb(217, 134, 164) !important;
+    color: white;
+}
+
+th {
+    background-color: white;
+}
+.principal {
+    text-decoration: aliceblue;
+}
+label {
+    font-style: italic;
+    color: white;
+}
